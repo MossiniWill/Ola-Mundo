@@ -1,4 +1,6 @@
-# Ol· Mundo
- Meu Primeiro RepositÛrio do Curso de Git e GitHub
+# Ol√° Mundo
+ Meu Primeiro Reposit√≥rio do Curso de Git e GitHub
 
-RepositÛrio criado durante uma aula Ao Vivo!
+Reposit√≥rio criado durante uma aula Ao Vivo!
+
+Essa linha eu adicionei diretamente no site.
